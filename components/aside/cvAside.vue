@@ -1,6 +1,6 @@
 <template>
-  <aside class="cv-aside cv-aside--spacing">
-    <h2 class="cv-aside__hidden-h2">
+  <aside class="cv-aside cv-aside--spacing" aria-labelledby="aside-title">
+    <h2 class="cv-aside__hidden-h2" id="aside-title">
       More info
     </h2>
     <cv-section v-for="item in data.sections" :key="item.title" small>
