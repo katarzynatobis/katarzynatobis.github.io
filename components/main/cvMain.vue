@@ -5,7 +5,7 @@
         Profile
       </template>
       <cv-main-item>
-        {{ data.profile }}
+        <span v-html="data.profile" />
       </cv-main-item>
     </cv-section>
     <cv-section>

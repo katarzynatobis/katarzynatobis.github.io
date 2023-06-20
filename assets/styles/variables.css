@@ -4,7 +4,7 @@
   --serif: "didonesque", garamond, serif;
 
   /* typography */
-  --paragraph-size: calc(var(--unit) * 5);
+  --paragraph-size: calc(var(--unit) * 4);
 
   /* colors */
   --primary: #278384;

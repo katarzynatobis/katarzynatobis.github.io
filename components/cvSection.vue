@@ -41,7 +41,7 @@ export default Vue.extend({
   }
 
   &--small {
-    font-size: calc(var(--paragraph-size) * 0.8);
+    font-size: calc(var(--paragraph-size) * 0.875);
     margin: calc(var(--unit) * 6) 0;
     break-inside: avoid-page;
 

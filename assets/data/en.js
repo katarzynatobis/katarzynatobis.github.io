@@ -1,13 +1,27 @@
 export default {
   main: {
     profile:
-        'I am a passionate front-end developer and web designer with a strong desire for personal development. My strengths include ability to work under pressure, organisation skills and analytical thinking. I am known as a person with an enthusiastic approach to new ideas and ability to solve problems.',
+        'I am a passionate front-end developer with a strong desire for personal development. My strengths include ability to work under pressure, organisation skills and analytical thinking. I am known as a person with an&nbsp;enthusiastic approach to&nbsp;new&nbsp;ideas and ability to&nbsp;solve problems. I&nbsp;have specialised in the area of accessibility, and I&nbsp;care about high quality code.',
     sections: [
       {
         title: 'Experience',
         items: [
           {
-            time: '02/2020 - present',
+            time: '10/2021 - present',
+            position: 'Software Enginner, Senior Software Engineer',
+            company: 'Brainly',
+            description:
+                'Developing, maintaining, and supporting the Pencil Design System and brainly-style-guide (React, SCSS). Improving accessibility of the style-guide components and apps.  Advocating accessibility and sharing knowledge across the organisation: writing documentation, conducting workshops, consulting.'
+          },
+          {
+            time: '10/2021 - present',
+            position: 'Co-founder, Lead Front-end Developer',
+            company: 'Maszto',
+            description:
+                'Creating Maszto app - a platform for sharing goods with non-profit organisations. Leading front-end development, creating new features, planning.'
+          },
+          {
+            time: '02/2020 - 09/2021',
             position: 'Front-end Developer, Frontend Enginering Leader',
             company: 'Kinside',
             description:
@@ -33,14 +47,14 @@ export default {
             company: 'Idium Polska',
             description:
                 'Developing functional designs and web designs for clients (Norwegian market), developing original and innovative website templates, improving and testing the CMS.'
-          },
-          {
-            time: '03/2014 - 06/2016',
-            position: 'Lego Mindstorms Instructor',
-            company: 'KRAUL sport, rekreacja, edukacja',
-            description:
-                'Conducting courses for children and youth, assistance while building a robot, teaching programming (WeDo Software, Lego Mindstorms NXT and NXC) and building customer relationships.'
           }
+          // {
+          //   time: '03/2014 - 06/2016',
+          //   position: 'Lego Mindstorms Instructor',
+          //   company: 'KRAUL sport, rekreacja, edukacja',
+          //   description:
+          //       'Conducting courses for children and youth, assistance while building a robot, teaching programming (WeDo Software, Lego Mindstorms NXT and NXC) and building customer relationships.'
+          // }
         ]
       },
       {
@@ -64,7 +78,8 @@ export default {
     sections: [
       {
         title: 'Details',
-        description: 'Kraków <br/>+48 669 594 719 <br/><a href="https://www.linkedin.com/in/ktobis/" target="_blank">linkedin.com/in/ktobis</a><br/><a href="https://github.com/katarzynatobis" target="_blank">github.com/katarzynatobis</a><a href="https://www.behance.net/katawes" target="_blank"><br/>behance.net/katawes</a>'
+        description:
+          'Kraków <br/>+48 669 594 719 <br/><a href="https://www.linkedin.com/in/ktobis/">linkedin.com/in/ktobis</a><br/><a href="https://github.com/katarzynatobis">github.com/katarzynatobis</a>'
       },
       {
         title: 'Languages',
@@ -72,19 +87,13 @@ export default {
       },
       {
         title: 'Skills &&nbsp;Tools',
-        description: 'JavaScript, TypeScript, Vue, React, HTML&nbsp;5, CSS&nbsp;3, PostCSS, MobX, Git, Cypress, Adobe&nbsp;CC'
-      },
-      {
-        title: 'Honors &&nbsp;Awards',
-        description: '<p>HackYeah hackathon, X-&zwj;SOCIAL category &mdash;&nbsp;finalist (2017)</p><p>the European BEST Engineering Competition &mdash;&nbsp;4th place in Poland (2013)</p>'
+        description:
+          'React, JavaScript, CSS&nbsp;3, Web&nbsp;Accessibility, TypeScript, HTML&nbsp;5, Vue, PostCSS, Git, Cypress'
       },
       {
         title: 'Passions',
-        description: 'Dog training &&nbsp;behavior<br/>Front-end development<br/>Fantasy &&nbsp;popular&nbsp;science literature<br/>Traveling &&nbsp;hitchhiking<br/>Scouting'
-      },
-      {
-        title: 'Volunteering',
-        description: '<p>React &&nbsp;TypeScript Mentor &mdash;&nbsp;DevMeetings</p><p>Scout guide &mdash;&nbsp;The&nbsp;Polish Scouting and Guiding Association (ZHP)</p>'
+        description:
+          'Dog training, behavior &&nbsp;communication<br/>TV series<br/>Fantasy &&nbsp;popular&nbsp;science literature<br/>'
       }
     ],
     agreement: 'I hereby agree to the processing of personal data included in my application for the needs necessary to carry out the recruitment process in accordance with art. 6 par. 1 lit. a Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation). I also consent to processing of my personal data for the purposes of any future recruitment processes.'

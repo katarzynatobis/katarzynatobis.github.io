@@ -1,6 +1,6 @@
 <template>
   <aside class="cv-aside cv-aside--spacing" aria-labelledby="aside-title">
-    <h2 class="cv-aside__hidden-h2" id="aside-title">
+    <h2 id="aside-title" class="cv-aside__hidden-h2">
       More info
     </h2>
     <cv-section v-for="item in data.sections" :key="item.title" small>
@@ -64,7 +64,7 @@ export default Vue.extend({
   &__agreement {
     margin: 0;
     margin-top: auto;
-    font-size: calc(var(--paragraph-size) * 0.5);
+    font-size: calc(var(--paragraph-size) * 0.7);
     break-inside: avoid-page;
 
     @media screen and (max-width: env(--tablet)) {
