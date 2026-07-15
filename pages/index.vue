@@ -3,8 +3,9 @@
     <label class="data-switcher" for="data-select" aria-hidden>
       <span class="data-switcher__label">Data</span>
       <select id="data-select" v-model="selectedData" @change="onDataChange">
-        <option value="en">Katarzyna</option>
-        <option value="enArtur">Artur</option>
+        <option v-for="option in dataOptions" :key="option.value" :value="option.value">
+          {{ option.label }}
+        </option>
       </select>
     </label>
     <cv :data="data" />
@@ -15,16 +16,26 @@
 import Vue from 'vue'
 import en from '~/assets/data/en.js'
 import enArtur from '~/assets/data/en-artur.js'
+import deArtur from '~/assets/data/deArtur.js'
 import Cv from '~/components/cv.vue'
+
+const dataOptions = [
+  { value: 'en', label: 'Katarzyna English', data: en },
+  { value: 'enArtur', label: 'Artur English', data: enArtur },
+  { value: 'deArtur', label: 'Artur Deutsch', data: deArtur }
+]
 
 export default Vue.extend({
   components: {
     Cv
   },
   data () {
+    const initialOption = dataOptions[0]
+
     return {
-      selectedData: 'en',
-      data: en
+      selectedData: initialOption.value,
+      data: initialOption.data,
+      dataOptions
     }
   },
   mounted () {
@@ -32,7 +43,12 @@ export default Vue.extend({
   },
   methods: {
     onDataChange () {
-      this.data = this.selectedData === 'enArtur' ? enArtur : en
+      const selectedOption = this.dataOptions.find(option => option.value === this.selectedData)
+
+      if (selectedOption) {
+        this.data = selectedOption.data
+      }
+
       this.applyTheme()
     },
     applyTheme () {
