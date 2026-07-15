@@ -8,78 +8,66 @@ export default {
   },
   header: {
     name: 'Artur Suchanek',
-    mail: 'wesolowskakt@gmail.com'
+    mail: 'artursuchanek90@gmail.com'
   },
   main: {
     profile:
-        'I am a passionate front-end developer with a strong desire for personal development. My strengths include ability to work under pressure, organisation skills and analytical thinking. I am known as a person with an&nbsp;enthusiastic approach to&nbsp;new&nbsp;ideas and ability to&nbsp;solve problems. I&nbsp;have specialised in the area of accessibility, and I&nbsp;care about high quality code.',
+      'Multilingual logistics professional with 10+ years of experience in air freight export, road freight, freight forwarding, transport coordination and customer care. Native German and Polish speaker with professional working English. Strong background in DACH/CEE logistics, shipment tracking, export documentation, customs basics, dangerous goods awareness, quality checks and process optimization.',
     sections: [
       {
         title: 'Experience',
         items: [
           {
-            time: '10/2021 - present',
-            position: 'Software Enginner, Senior Software Engineer',
-            company: 'Brainly',
+            time: '10/2024 - present',
+            position: 'Air Logistics Customer Care Specialist',
+            company: 'Kuehne+Nagel',
             description:
-                'Developing, maintaining, and supporting the Pencil Design System and brainly-style-guide (React, SCSS). Improving accessibility of the style-guide components and apps.  Advocating accessibility and sharing knowledge across the organisation: writing documentation, conducting workshops, consulting.'
+              'Handle air freight export shipments, mainly general cargo; support customers with tracking, status updates and operational questions. Coordinate export-related information between customers, internal teams and operational stakeholders in German and English. Use Carelog and internal logistics systems to manage shipment information and customer requests.'
           },
           {
-            time: '10/2021 - present',
-            position: 'Co-founder, Lead Front-end Developer',
-            company: 'Maszto',
+            time: '11/2023 - 09/2024',
+            position: 'Career Break & Freelance Projects',
+            company: 'Austria / Poland',
             description:
-                'Creating Maszto app - a platform for sharing goods with non-profit organisations. Leading front-end development, creating new features, planning.'
+              'Short planned career break until 02/2024, followed by freelance support for Arkamcars Polska in customer communication, photo/video content, car logistics, vehicle quality checks and logistics cost optimization.'
           },
           {
-            time: '02/2020 - 09/2021',
-            position: 'Front-end Developer, Frontend Enginering Leader',
-            company: 'Kinside',
+            time: '07/2019 - 10/2023',
+            position: 'Logistics Specialist',
+            company: 'allnex',
             description:
-                'Developing, maintaining and supporting Kinside products: childcare marketplace app (Vue 2, SCSS, Ruby on Rails), conducting code review, leading the front-end architecture, working in a distributed team (Poland, Canada, USA).'
+              'Coordinated road, sea and air freight with forwarding partners, including dangerous goods and temperature-controlled cargo. Planned container loading based on packaging, product compatibility and capacity; prepared export/customs documents such as COO, ATR, annexes and CAD bank documents. Used SAP and created an Excel-based planning tool for drums, pails and IBCs; helped rebuild and train a logistics team from 2 to 8 members.'
           },
           {
-            time: '09/2019 - 01/2020',
-            position: 'Front-end Developer',
-            company: 'NetEnt',
+            time: '01/2019 - 04/2019',
+            position: 'Transport Manager',
+            company: 'Cargoways Logistik & Transport GmbH',
             description:
-                'Developing, maintaining and supporting internal game frameworks (JSON form editor with React/TypeScript and Material-UI, sound library based on events in TypeScript) in international Agile environment.'
+              'Supported daily road freight transport planning, partner communication and operational issue resolution.'
           },
           {
-            time: '07/2018 - 08/2019',
-            position: 'Front-end Developer',
-            company: 'Closer',
+            time: '10/2013 - 10/2018',
+            position: 'Forwarder Eastern Europe',
+            company: 'Wenzel Logistics',
             description:
-                'Creating front-end for the Closer app, pixel-perfect implementation of designs, developing new and improving existing features, fixing bugs and refactoring using React with MobX, JavaScript/TypeScript and PostCSS.'
+              'Organized road freight across AT, PL, DE, SK, CZ and other CEE countries; used Timocom and Trans.eu to source capacity and sell loads. Negotiated daily spot rates with customers and carriers; optimized truck capacity, delivery timing and load combinations to improve profitability.'
           },
           {
-            time: '03/2016 - 06/2018',
-            position: 'Web Designer',
-            company: 'Idium Polska',
+            time: '01/2011 - 09/2013',
+            position: 'Production & Quality Employee',
+            company: 'Magna International',
             description:
-                'Developing functional designs and web designs for clients (Norwegian market), developing original and innovative website templates, improving and testing the CMS.'
+              'Production and quality control in a structured industrial environment.'
           }
-          // {
-          //   time: '03/2014 - 06/2016',
-          //   position: 'Lego Mindstorms Instructor',
-          //   company: 'KRAUL sport, rekreacja, edukacja',
-          //   description:
-          //       'Conducting courses for children and youth, assistance while building a robot, teaching programming (WeDo Software, Lego Mindstorms NXT and NXC) and building customer relationships.'
-          // }
         ]
       },
       {
         title: 'Education',
         items: [
           {
-            field: 'Technical Physics, second circle of studies',
-            time: '2015 - 2018',
-            uni: 'Faculty of Physics and Applied Computer Science<br/>AGH University of Science and Technology'
-          },
-          {
-            field: 'Technical Physics, first circle of studies',
-            time: '2011 - 2015',
-            uni: 'Engineering degree<br/>Faculty of Physics and Applied Computer Science<br/>AGH University of Science and Technology'
+            field: 'AHS Matura',
+            time: 'Completed',
+            uni: 'Grazer Schulschwestern, Graz, Austria'
           }
         ]
       }
@@ -90,23 +78,18 @@ export default {
       {
         title: 'Details',
         description:
-          'Kraków <br/>+48 669 594 719 <br/><a href="https://www.linkedin.com/in/ktobis/">linkedin.com/in/ktobis</a><br/><a href="https://github.com/katarzynatobis">github.com/katarzynatobis</a>'
+          'Graz, Austria <br/>+43 660 91 76 171 <br/><a href="mailto:artursuchanek90@gmail.com">artursuchanek90@gmail.com</a><br/><a href="https://linkedin.com/in/artursuchanek-a70996140">linkedin.com/in/artursuchanek-a70996140</a><br/>Open to remote / hybrid roles in Austria'
       },
       {
         title: 'Languages',
-        description: 'Polish (native)<br/>English (B2)'
+        description: 'Polish (native)<br/>German (native)<br/>English (professional working proficiency)'
       },
       {
         title: 'Skills &&nbsp;Tools',
         description:
-          'React, JavaScript, CSS&nbsp;3, Web&nbsp;Accessibility, TypeScript, HTML&nbsp;5, Vue, PostCSS, Git, Cypress'
-      },
-      {
-        title: 'Passions',
-        description:
-          'Dog training, behavior &&nbsp;communication<br/>TV series<br/>Fantasy &&nbsp;popular&nbsp;science literature<br/>'
+          'Air Freight, Road Freight, Freight Forwarding, Transport Coordination, Customer Care, Customer Relationship Management, Key Account Support, Shipment Tracking, Export Documentation, Incoterms, Customs Basics, RIN Number Austria, Dangerous Goods Awareness, SAP, CargoWise, Carelog, Microsoft Office, Microsoft Teams, Timocom, Trans.eu, Microsoft Copilot / AI-assisted productivity tools'
       }
     ],
-    agreement: 'I hereby agree to the processing of personal data included in my application for the needs necessary to carry out the recruitment process in accordance with art. 6 par. 1 lit. a Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation). I also consent to processing of my personal data for the purposes of any future recruitment processes.'
+    agreement: 'I hereby consent to the processing of my personal data included in my application for the purpose of the recruitment process in accordance with Regulation (EU) 2016/679, General Data Protection Regulation.'
   }
 }
