@@ -23,7 +23,6 @@
 </template>
 
 <script lang="ts">
-import { computed } from '@nuxtjs/composition-api'
 import Vue from 'vue'
 
 export default Vue.extend({
@@ -33,11 +32,9 @@ export default Vue.extend({
       default: 'article'
     }
   },
-  setup (_props, { slots }) {
-    const withHeader = computed(() => slots.title && slots.subtitle)
-
-    return {
-      withHeader
+  computed: {
+    withHeader () {
+      return this.$slots.title && this.$slots.subtitle
     }
   }
 })
