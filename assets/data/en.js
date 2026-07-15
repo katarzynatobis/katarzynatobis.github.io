@@ -90,7 +90,7 @@ export default {
       {
         title: 'Details',
         description:
-          'Kraków <br/>+48 669 594 719 <br/><a href="https://www.linkedin.com/in/ktobis/">linkedin.com/in/ktobis</a><br/><a href="https://github.com/katarzynatobis">github.com/katarzynatobis</a>'
+          'Kraków <br/>+48 669 594 719 <br/><a href="https://www.linkedin.com/in/wesolowskakt/">linkedin.com/in/wesolowskakt</a><br/><a href="https://github.com/katarzynatobis">github.com/katarzynatobis</a>'
       },
       {
         title: 'Languages',
