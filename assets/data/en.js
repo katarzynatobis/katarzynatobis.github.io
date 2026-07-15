@@ -1,4 +1,11 @@
 export default {
+  primary: '#278384',
+  primaryLight: '#12a79d',
+  primaryDark: '#153334',
+  font: {
+    serif: 'didonesque',
+    sansSerif: 'karu'
+  },
   header: {
     name: 'Katarzyna Wesołowska',
     mail: 'wesolowskakt@gmail.com'

@@ -1,4 +1,11 @@
 export default {
+  primary: '#0B2D72',
+  primaryLight: '#1F4CA5',
+  primaryDark: '#061A40',
+  font: {
+    serif: 'Fraunces',
+    sansSerif: 'Inter'
+  },
   header: {
     name: 'Artur Suchanek',
     mail: 'wesolowskakt@gmail.com'
