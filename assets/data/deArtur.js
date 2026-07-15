@@ -11,6 +11,7 @@ export default {
     mail: 'artursuchanek90@gmail.com'
   },
   main: {
+    profileTitle: 'Profil',
     profile:
       'Mehrsprachiger Fachmann für Logistik mit über 10 Jahren Erfahrung im Export von Luftfracht, Straßengüterverkehr, Speditionsdienstleistungen, Transportkoordination und Kundenbetreuung. Muttersprache Deutsch und Polnisch mit professionell gutem Englisch. Starke Erfahrung in der Logistik im DACH-/CEE-Raum, Sendungsverfolgung, Exportdokumentation, Grundlagen des Zollwesens, Gefahrgutbewusstsein, Qualitätsprüfungen und Prozessoptimierung.',
     sections: [
@@ -74,6 +75,7 @@ export default {
     ]
   },
   aside: {
+    title: 'Weitere Informationen',
     sections: [
       {
         title: 'Details',

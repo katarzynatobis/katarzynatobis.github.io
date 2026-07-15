@@ -2,7 +2,7 @@
   <main>
     <cv-section>
       <template #title>
-        Profile
+        {{ data.profileTitle }}
       </template>
       <cv-main-item>
         <span v-html="data.profile" />

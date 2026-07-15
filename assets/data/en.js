@@ -11,6 +11,7 @@ export default {
     mail: 'wesolowskakt@gmail.com'
   },
   main: {
+    profileTitle: 'Profile',
     profile:
         'I am a passionate front-end developer with a strong desire for personal development. My strengths include ability to work under pressure, organisation skills and analytical thinking. I am known as a person with an&nbsp;enthusiastic approach to&nbsp;new&nbsp;ideas and ability to&nbsp;solve problems. I&nbsp;have specialised in the area of accessibility, and I&nbsp;care about high quality code.',
     sections: [
@@ -86,6 +87,7 @@ export default {
     ]
   },
   aside: {
+    title: 'More info',
     sections: [
       {
         title: 'Details',

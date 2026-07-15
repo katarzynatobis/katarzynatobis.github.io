@@ -1,7 +1,7 @@
 <template>
   <aside class="cv-aside cv-aside--spacing" aria-labelledby="aside-title">
     <h2 id="aside-title" class="cv-aside__hidden-h2">
-      More info
+      {{ data.title }}
     </h2>
     <cv-section v-for="item in data.sections" :key="item.title" small>
       <template #title>

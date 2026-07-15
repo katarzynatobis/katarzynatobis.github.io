@@ -11,6 +11,7 @@ export default {
     mail: 'artursuchanek90@gmail.com'
   },
   main: {
+    profileTitle: 'Profile',
     profile:
       'Multilingual logistics professional with 10+ years of experience in air freight export, road freight, freight forwarding, transport coordination and customer care. Native German and Polish speaker with professional working English. Strong background in DACH/CEE logistics, shipment tracking, export documentation, customs basics, dangerous goods awareness, quality checks and process optimization.',
     sections: [
@@ -74,6 +75,7 @@ export default {
     ]
   },
   aside: {
+    title: 'More info',
     sections: [
       {
         title: 'Details',
