@@ -10,7 +10,17 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'theme-color', content: '#278384' }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/fav.png' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/fav.png' },
+      {
+        rel: 'preconnect',
+        href: 'https://fonts.googleapis.com'
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Fraunces:wght@400&family=Inter:wght@400&display=swap'
+      }
+    ],
     htmlAttrs: {
       lang: 'en'
     }

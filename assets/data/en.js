@@ -1,4 +1,15 @@
 export default {
+  primary: '#278384',
+  primaryLight: '#12a79d',
+  primaryDark: '#153334',
+  font: {
+    serif: 'didonesque',
+    sansSerif: 'karu'
+  },
+  header: {
+    name: 'Katarzyna Wesołowska',
+    mail: 'wesolowskakt@gmail.com'
+  },
   main: {
     profile:
         'I am a passionate front-end developer with a strong desire for personal development. My strengths include ability to work under pressure, organisation skills and analytical thinking. I am known as a person with an&nbsp;enthusiastic approach to&nbsp;new&nbsp;ideas and ability to&nbsp;solve problems. I&nbsp;have specialised in the area of accessibility, and I&nbsp;care about high quality code.',
