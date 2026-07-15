@@ -1,6 +1,6 @@
 export default {
   header: {
-    name: 'Katarzyna Wesołowska',
+    name: 'Artur Suchanek',
     mail: 'wesolowskakt@gmail.com'
   },
   main: {

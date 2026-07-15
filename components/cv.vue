@@ -1,7 +1,7 @@
 <template>
   <div class="cv">
     <div>
-      <cv-header />
+      <cv-header :data="data.header" />
       <cv-main :data="data.main" />
     </div>
     <cv-aside :data="data.aside" />

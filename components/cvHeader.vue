@@ -1,7 +1,7 @@
 <template>
   <header>
-    <h1>Katarzyna Tobiś</h1>
-    <address><a href="mailto:tobiskatarzyna@gmail.com">tobiskatarzyna@gmail.com</a></address>
+    <h1>{{ data.name }}</h1>
+    <address><a :href="'maito:'+data.mail">{{ data.mail }}</a></address>
   </header>
 </template>
 
@@ -9,8 +9,13 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-  setup () {
-    return {}
+  name: 'CvHeader',
+
+  props: {
+    data: {
+      type: Object,
+      required: true
+    }
   }
 })
 </script>
