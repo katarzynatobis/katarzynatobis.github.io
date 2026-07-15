@@ -11,7 +11,6 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import { computed } from '@nuxtjs/composition-api'
 
 export default Vue.extend({
   props: {
@@ -19,10 +18,9 @@ export default Vue.extend({
       type: Boolean
     }
   },
-  setup ({ small }) {
-    const headingTag = computed(() => small ? 'h3' : 'h2')
-    return {
-      headingTag
+  computed: {
+    headingTag () {
+      return this.small ? 'h3' : 'h2'
     }
   }
 })
