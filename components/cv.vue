@@ -35,7 +35,7 @@ export default Vue.extend({
   grid-template-columns: 5fr 2fr;
 
   @media print {
-    height: 58cm;
+    height: 61.5cm;
   }
 
   & > * {
@@ -48,8 +48,8 @@ export default Vue.extend({
     }
 
     @media print {
-      padding: calc(var(--unit) * 10);
-      padding-top: calc(var(--unit) * 20);
+      padding: calc(var(--unit) * 5);
+      padding-top: calc(var(--unit) * 12);
     }
 
     &:first-child {
