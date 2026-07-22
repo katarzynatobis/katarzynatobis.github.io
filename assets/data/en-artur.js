@@ -66,7 +66,7 @@ export default {
         title: 'Education',
         items: [
           {
-            field: 'AHS Matura',
+            field: 'graduation exam',
             time: 'Completed',
             uni: 'Grazer Schulschwestern, Graz, Austria'
           }
