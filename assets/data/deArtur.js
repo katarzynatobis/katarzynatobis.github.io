@@ -26,8 +26,7 @@ export default {
               'Eigenverantwortliche Abwicklung von Luftfracht-Exportsendungen (Schwerpunkt: General Cargo)
                 Kundenbetreuung bezüglich Sendungsverfolgung (Tracking), Statusupdates und operativer Anfragen
                 Schnittstelle und Koordination exportrelevanter Informationen zwischen Kunden, internen Teams und operativen Partnern auf Deutsch und Englisch
-                Sicherer Umgang mit Carelog sowie internen Logistiksystemen zur effizienten Verwaltung von Sendungsdaten und Kundenanliegen
-11/2023 – 09/2024'
+                Sicherer Umgang mit Carelog sowie internen Logistiksystemen zur effizienten Verwaltung von Sendungsdaten und Kundenanliegen'
           },
           {
             time: '11/2023 - 09/2024',
