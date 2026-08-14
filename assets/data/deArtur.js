@@ -24,8 +24,8 @@ export default {
             position: 'Air Logistics Customer Care Specialist',
             company: 'Kuehne+Nagel',
             description:
-              'Eigenverantwortliche Abwicklung von Luftfracht-Exportsendungen (Schwerpunkt: General Cargo)
-                Kundenbetreuung bezüglich Sendungsverfolgung (Tracking), Statusupdates und operativer Anfragen
+              'Eigenverantwortliche Abwicklung von Luftfracht-Exportsendungen mit Schwerpunkt: General Cargo               
+              Kundenbetreuung bezüglich Sendungsverfolgung, Tracking, Statusupdates und operativer Anfragen
                 Schnittstelle und Koordination exportrelevanter Informationen zwischen Kunden, internen Teams und operativen Partnern auf Deutsch und Englisch
                 Sicherer Umgang mit Carelog sowie internen Logistiksystemen zur effizienten Verwaltung von Sendungsdaten und Kundenanliegen'
           },
