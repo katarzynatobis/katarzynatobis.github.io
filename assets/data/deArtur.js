@@ -13,7 +13,8 @@ export default {
   main: {
     profileTitle: 'Profil',
     profile:
-      'Mehrsprachiger Logistik- & Speditionsspezialist mit über 10 Jahren Erfahrung im Export von Luftfracht, Straßengüterverkehr, Speditionsdienstleistungen, Transportkoordination und Kundenbetreuung. Muttersprache Deutsch und Polnisch mit professionell gutem Englisch. Starke Erfahrung in der Logistik im DACH-/CEE-Raum, Sendungsverfolgung, Exportdokumentation, Grundlagen des Zollwesens, Gefahrgutbewusstsein, Qualitätsprüfungen und Prozessoptimierung.'},
+      'Mehrsprachiger Logistik- & Speditionsspezialist mit über 10 Jahren Erfahrung im Export von Luftfracht, Straßengüterverkehr, Speditionsdienstleistungen, Transportkoordination und Kundenbetreuung. Muttersprache Deutsch und Polnisch mit professionell gutem Englisch. Starke Erfahrung in der Logistik im DACH-/CEE-Raum, Sendungsverfolgung, Exportdokumentation, Grundlagen des Zollwesens, Gefahrgutbewusstsein, Qualitätsprüfungen und Prozessoptimierung.'
+  },
     sections: [
       {
         title: 'Erfahrung',
