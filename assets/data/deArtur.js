@@ -80,7 +80,7 @@ export default {
       {
         title: 'Details',
         description:
-          'Graz, Österreich <br/>+43 660 91 76 171 <br/><a href="mailto:artursuchanek90@gmail.com">artursuchanek90@gmail.com</a><br/><a href="https://linkedin.com/in/artursuchanek-a70996140">lin[...]'
+          'Graz, Österreich <br/>+43 660 91 76 171 <br/><a href="mailto:artursuchanek90@gmail.com">artursuchanek90@gmail.com</a><br/><a href="https://linkedin.com/in/artursuchanek-a70996140">linkedin.com/in/artursuchanek-a70996140'
       },
       {
         title: 'Sprachen',
