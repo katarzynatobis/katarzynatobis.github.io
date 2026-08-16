@@ -13,7 +13,7 @@ export default {
   main: {
     profileTitle: 'Profil',
     profile:
-      'Mehrsprachiger Logistikfachmann mit über 10 Jahren Erfahrung in den Bereichen Luftfracht-Export, Straßengüterverkehr, Speditionswesen und Kundenbetreuung. Muttersprachen Deutsch und Polnisch sowie verhandlungssicheres Englisch. Fundierte Expertise in der Logistik im DACH- und CEE-Raum, Sendungsverfolgung, Export- und Zolldokumentation, Gefahrgutabwicklung (ADR) sowie Prozess- und Qualitätsoptimierung.',
+      'Mehrsprachiger Logistikspezialist mit über 12 Jahren Erfahrung in der internationalen Transport- und Exportlogistik. Weltweite Exportabwicklung in über 100 Länder per Luft-, See- und Landverkehr sowie fundierte Kenntnisse in Kundenbetreuung, Export- und Zolldokumentation, Sendungsverfolgung und Gefahrgut-Awareness. Deutsch und Polnisch auf muttersprachlichem Niveau, Englisch verhandlungssicher; RIN-Nummer für Österreich vorhanden.',
     sections: [
       {
         title: 'Erfahrung',
@@ -23,21 +23,21 @@ export default {
             position: 'Air Logistics Customer Care Specialist',
             company: 'Kuehne+Nagel',
             description:
-              'Eigenverantwortliche Abwicklung von Luftfracht-Exportsendungen mit Schwerpunkt: General Cargo. Kundenbetreuung bezüglich Sendungsverfolgung, Tracking, Statusupdates und operativer Anfragen. Schnittstelle und Koordination exportrelevanter Informationen zwischen Kunden, internen Teams und operativen Partnern auf Deutsch und Englisch. Sicherer Umgang mit Carelog sowie internen Logistiksystemen zur effizienten Verwaltung von Sendungsdaten und Kundenanliegen'
+              'Eigenverantwortliche Abwicklung von Luftfracht-Exportsendungen mit Schwerpunkt General Cargo. Kundenbetreuung bezüglich Sendungsverfolgung, Tracking, Statusaktualisierungen und operativer Anfragen. Einholung und Bearbeitung von Spot-Anfragen, Schnittstellenkommunikation zwischen Kunden, internen Teams und operativen Partnern auf Deutsch und Englisch. Sicherer Umgang mit CargoWise sowie internen Logistiksystemen zur effizienten Verwaltung von Sendungsdaten und Kundenanliegen.'
           },
           {
             time: '11/2023 - 09/2024',
             position: 'Karrierepause & freiberufliche Projekte',
             company: 'Österreich / Polen',
             description:
-              'Geplante Auszeit zur beruflichen Neuorientierung (bis 02/2024). Anschließende freiberufliche Unterstützung für Arkamcars Polska: Betreuung der Kundenkommunikation und Koordination der Fahrzeuglogistik. Durchführung von Fahrzeug-Qualitätsprüfungen und Optimierung der Transportkosten. Erstellung von Foto- und Video-Content für Marketingzwecke'
+              'Geplante berufliche Auszeit zur persönlichen Neuorientierung. Anschließend Freelance-Projekte in den Bereichen Fotografie und Videoproduktion sowie projektbezogene Unterstützung von Arkamcars Polska bei Kundenkommunikation, Fahrzeuglogistik, Datenbereinigung und Transportkostenoptimierung.'
           },
           {
             time: '07/2019 - 10/2023',
             position: 'Logistics Specialist',
             company: 'allnex',
             description:
-              'Koordination von Straßen-, See- und Luftfracht mit Speditionspartnern, inklusive Gefahrgut (ADR) und temperaturgeführten Transporten. Planung von Containerbeladungen unter Berücksichtigung von Verpackungsarten, Produktkompatibilität und Kapazitäten. Erstellung sämtlicher Export- und Zolldokumente (z. B. Ursprungszeugnisse/COO, A.TR, Akkreditiv- und CAD-Bankdokumente). Entwicklung und Etablierung eines Excel-basierten Planungstools zur Optimierung der Auslastung von Gebinden (Fässer, Eimer, IBCs) in SAP. Aktiver Mitaufbau und Einarbeitung des Logistikteams (Erweiterung von 2 auf 8 Mitarbeiter)'
+              'Koordination von Straßen-, See- und Luftfracht mit Speditionspartnern sowie temperaturgeführten Transporten. Praxisbezogene Gefahrgutkenntnisse und Awareness nach ADR, IATA und IMDG. Planung von Containerbeladungen unter Berücksichtigung von Verpackungsarten, Produktkompatibilität und Kapazitäten. Erstellung von Export-, Zoll- und Bankdokumenten, darunter COO, A.TR, Akkreditiv- und CAD-Dokumente. Entwicklung eines Excel-basierten Planungstools zur Optimierung der Gebindeauslastung und Abbildung in SAP. Mitwirkung am Aufbau und an der Einarbeitung des Logistikteams von zwei auf acht Mitarbeitende.'
           },
           {
             time: '01/2019 - 04/2019',
@@ -84,14 +84,24 @@ export default {
       },
       {
         title: 'Sprachen',
-        description: 'Polnisch (Muttersprache)<br/>Deutsch (Muttersprache)<br/>Englisch (beruflich gut)'
+        description: 'Polnisch (Muttersprache)<br/>Deutsch (Muttersprache)<br/>Englisch (Verhandlungssicher)'
       },
       {
         title: 'Fähigkeiten &&nbsp;Werkzeuge',
         description:
-          'Luftfracht, Straßengutverkehr, Speditionsdienstleistungen, Transportkoordination, Kundenbetreuung, Customer Relationship Management, Key-Account-Support, Sendungsverfolgung, Exportdok[...]'
+          'Luft-, See- und Straßengüterverkehr
+Speditions- und Transportkoordination
+Customer Care und Key-Account-Support
+Spot-Anfragen und Sendungsverfolgung
+Export- und Zolldokumentation
+Incoterms und Zollgrundkenntnisse
+Gefahrgut-Awareness nach IATA DGR Kat. 4
+RIN-Nummer Österreich
+SAP, CargoWise, Carelog
+Timocom, Trans.eu
+MS Office, Teams und Copilot'
       }
     ],
-    agreement: 'Ich erkläre mich hiermit mit der Verarbeitung meiner personenbezogenen Daten im Rahmen meines Bewerbungsunterlagen für den Zweck des Auswahlverfahrens entsprechend der Verordnun[...]'
+    agreement: 'Ich erkläre mich mit der Verarbeitung und Speicherung der in meinen Bewerbungsunterlagen enthaltenen personenbezogenen Daten zum Zweck der Durchführung aktueller und zukünftiger Bewerbungs- und Auswahlverfahren gemäß der Datenschutz-Grundverordnung (DSGVO) einverstanden. Diese Einwilligung kann jederzeit widerrufen werden.'
   }
 }
