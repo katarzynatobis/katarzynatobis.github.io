@@ -66,11 +66,14 @@ export default Vue.extend({
       const serifFont = this.data.font?.serif || 'didonesque'
       const sansSerifFont = this.data.font?.sansSerif || 'karu'
 
+      const serifWeight = serifFont === 'Ancizar Serif' ? '500' : '400'
+
       document.documentElement.style.setProperty('--primary', color)
       document.documentElement.style.setProperty('--primary-light', lightColor)
       document.documentElement.style.setProperty('--primary-dark', darkColor)
       document.documentElement.style.setProperty('--serif', serifFont)
       document.documentElement.style.setProperty('--sans-serif', sansSerifFont)
+      document.documentElement.style.setProperty('--serif-weight', serifWeight)
     }
   }
 })
