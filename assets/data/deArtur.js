@@ -89,17 +89,7 @@ export default {
       {
         title: 'Fähigkeiten &&nbsp;Werkzeuge',
         description:
-          'Luft-, See- und Straßengüterverkehr<br>
-Speditions- und Transportkoordination<br>
-Customer Care und Key-Account-Support<br>
-Spot-Anfragen und Sendungsverfolgung<br>
-Export- und Zolldokumentation<br>
-Incoterms und Zollgrundkenntnisse<br>
-Gefahrgut-Awareness nach IATA DGR Kat. 4<br>
-RIN-Nummer Österreich<br>
-SAP, CargoWise, Carelog<br>
-Timocom, Trans.eu<br>
-MS Office, Teams und Copilot'
+          'Luft-, See- und Straßengüterverkehr, Speditions- und Transportkoordination, Customer Care und Key-Account-Support, Spot-Anfragen und Sendungsverfolgung, Export- und Zolldokumentation, Incoterms und Zollgrundkenntnisse, Gefahrgut-Awareness nach IATA DGR Kat. 4, RIN-Nummer Österreich, SAP, CargoWise, Carelog, Timocom, Trans.eu, MS Office, Teams und Copilot'
       }
     ],
     agreement: 'Ich erkläre mich mit der Verarbeitung und Speicherung der in meinen Bewerbungsunterlagen enthaltenen personenbezogenen Daten zum Zweck der Durchführung aktueller und zukünftiger Bewerbungs- und Auswahlverfahren gemäß der Datenschutz-Grundverordnung (DSGVO) einverstanden. Diese Einwilligung kann jederzeit widerrufen werden.'
