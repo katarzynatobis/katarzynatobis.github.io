@@ -1,4 +1,5 @@
 export default {
+  siteTitle: 'Katarzyna Wesołowska Resume',
   primary: '#278384',
   primaryLight: '#12a79d',
   primaryDark: '#153334',

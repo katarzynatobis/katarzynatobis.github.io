@@ -40,6 +40,7 @@ export default Vue.extend({
   },
   mounted () {
     this.applyTheme()
+    this.setTitle()
   },
   methods: {
     onDataChange () {
@@ -50,6 +51,13 @@ export default Vue.extend({
       }
 
       this.applyTheme()
+      this.setTitle()
+    },
+    setTitle () {
+      const title = this.data.siteTitle || (this.data.header && this.data.header.name ? `${this.data.header.name} Resume` : 'Resume')
+      if (typeof document !== 'undefined') {
+        document.title = title
+      }
     },
     applyTheme () {
       const color = this.data.primary || '#278384'

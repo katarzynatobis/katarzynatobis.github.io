@@ -1,4 +1,5 @@
 export default {
+  siteTitle: 'Artur Suchanek Resume',
   primary: '#0B2D72',
   primaryLight: '#1F4CA5',
   primaryDark: '#061A40',
