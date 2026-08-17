@@ -18,7 +18,7 @@ export default {
       },
       {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css2?family=Fraunces:wght@400&family=Inter:wght@400&display=swap'
+        href: 'https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Inter:wght@400&display=swap'
       }
     ],
     htmlAttrs: {

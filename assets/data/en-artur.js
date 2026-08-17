@@ -4,7 +4,7 @@ export default {
   primaryLight: '#99AD7A',
   primaryDark: '#435534',
   font: {
-    serif: 'Fraunces',
+    serif: 'Fredericka the Great',
     sansSerif: 'Inter'
   },
   header: {
