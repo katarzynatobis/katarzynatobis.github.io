@@ -1,8 +1,8 @@
 export default {
   siteTitle: 'Artur Suchanek Resume',
-  primary: '#0B2D72',
-  primaryLight: '#1F4CA5',
-  primaryDark: '#061A40',
+  primary: '#546B41',
+  primaryLight: '#99AD7A',
+  primaryDark: '#435534',
   font: {
     serif: 'Fraunces',
     sansSerif: 'Inter'
@@ -85,7 +85,7 @@ export default {
       },
       {
         title: 'Sprachen',
-        description: 'Polnisch (Muttersprache)<br/>Deutsch (Muttersprache)<br/>Englisch (Verhandlungssicher)'
+        description: 'Polnisch - Muttersprache <br/>Deutsch - Muttersprache<br/>Englisch - Verhandlungssicher'
       },
       {
         title: 'Fähigkeiten &&nbsp;Werkzeuge',

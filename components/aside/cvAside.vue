@@ -37,6 +37,7 @@ export default Vue.extend({
   border-left: 1px solid var(--primary);
   display: flex;
   flex-direction: column;
+  max-width: 300px;
 
   @media screen and (max-width: env(--tablet)) {
     border: none;
@@ -52,6 +53,7 @@ export default Vue.extend({
 
     @media print {
       padding-right: 0;
+      max-width: 6cm;
     }
   }
 
