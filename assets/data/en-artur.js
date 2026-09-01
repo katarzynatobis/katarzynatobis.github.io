@@ -81,7 +81,7 @@ export default {
       {
         title: 'Details',
         description:
-          'Graz, Austria <br/>+43 660 91 76 171 <br/><a href="mailto:artursuchanek90@gmail.com">artursuchanek90@gmail.com</a><br/><a href="https://www.linkedin.com/in/artursuchanek90"<br/>www.linkedin.com/in/artursuchanek90</a><br/>Open to remote / hybrid roles in Krakow area'
+          'Graz, Austria <br/>+43 660 91 76 171 <br/><a href="mailto:artursuchanek90@gmail.com">artursuchanek90@gmail.com</a><br/><a href="https://www.linkedin.com/in/artursuchanek90/?locale=en-US"<br/>www.linkedin.com/in/artursuchanek90</a><br/>Open to remote / hybrid roles in Krakow area'
       },
       {
         title: 'Languages',
