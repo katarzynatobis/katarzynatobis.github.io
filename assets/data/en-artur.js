@@ -81,11 +81,11 @@ export default {
       {
         title: 'Details',
         description:
-          'Graz, Austria <br/>+43 660 91 76 171 <br/><a href="mailto:artursuchanek90@gmail.com">artursuchanek90@gmail.com</a><br/><a href="https://linkedin.com/in/artursuchanek-a70996140">linkedin.com/in/artursuchanek-a70996140</a><br/>Open to remote / hybrid roles in Austria'
+          'Graz, Austria <br/>+43 660 91 76 171 <br/><a href="mailto:artursuchanek90@gmail.com">artursuchanek90@gmail.com</a><br/><a href="https://www.linkedin.com/in/artursuchanek90"<br/>www.linkedin.com/in/artursuchanek90</a><br/>Open to remote / hybrid roles in Krakow area'
       },
       {
         title: 'Languages',
-        description: 'Polish (native)<br/>German (native)<br/>English (professional working proficiency)'
+        description: 'Polish (native)<br/>German (native)<br/>English (fluent)'
       },
       {
         title: 'Skills &&nbsp;Tools',
@@ -93,6 +93,6 @@ export default {
           'Air Freight, Road Freight, Freight Forwarding, Transport Coordination, Customer Care, Customer Relationship Management, Key Account Support, Shipment Tracking, Export Documentation, Incoterms, Customs Basics, RIN Number Austria, Dangerous Goods Awareness, SAP, CargoWise, Carelog, Microsoft Office, Microsoft Teams, Timocom, Trans.eu, Microsoft Copilot / AI-assisted productivity tools'
       }
     ],
-    agreement: 'I hereby consent to the processing of my personal data included in my application for the purpose of the recruitment process in accordance with Regulation (EU) 2016/679, General Data Protection Regulation.'
+    agreement: 'I hereby consent to the processing of my personal data included in my application for the purpose of the recruitment process in accordance with Regulation (EU) 2016/679, General Data Protection Regulation. This consent may be withdrawn at any time.'
   }
 }
