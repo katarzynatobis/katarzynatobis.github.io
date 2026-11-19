@@ -1,7 +1,7 @@
 <template>
   <header>
     <h1>{{ data.name }}</h1>
-    <address><a :href="'maito:'+data.mail">{{ data.mail }}</a></address>
+    <address><a :href="'mailto:'+data.mail">{{ data.mail }}</a></address>
   </header>
 </template>
 
